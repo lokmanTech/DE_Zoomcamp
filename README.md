@@ -3,4 +3,4 @@ Data Engineering Zoomcamp by DataTalksClub. Original Course Repository on [DE Zo
 
 ### Course Overview
 
-<p align=center><img src="img/course_outline.png"></p>
+<p align=center><img src="img/course_outline.jpeg"></p>
